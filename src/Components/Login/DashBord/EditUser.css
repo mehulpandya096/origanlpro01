@@ -1,0 +1,19 @@
+label{
+    font-style: normal;
+    font-weight:bold;
+    margin-right: 5px;
+}
+
+
+input{
+    text-align: center;
+} 
+
+.continer{
+    text-align: center;
+}
+
+.error{
+    color: red;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}

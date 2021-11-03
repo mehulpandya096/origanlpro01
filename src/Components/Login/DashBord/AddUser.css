@@ -1,0 +1,13 @@
+label {
+  font-style: normal;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.error {
+  color: red;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+input {
+  text-align: center;
+}
